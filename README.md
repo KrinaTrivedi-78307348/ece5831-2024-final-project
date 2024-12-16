@@ -1,6 +1,6 @@
 # ece5831-2024-final-project
-## pre-recorded presentation video,
-## presentation slides, 
-## report,
-## your dataset, 
-## demo video
+1. pre-recorded presentation video
+2.  presentation slides
+3. report
+4. dataset
+5. demo video
