@@ -1,7 +1,6 @@
 # ece5831-2024-final-project
 ## Contributers: Julia Korde, Krina Trivedi
-## Abstract 
-Fake news could spread misinformation, influence
+Abstract: Fake news could spread misinformation, influence
 decision-making (such as voting), and use emotional extreme
 statements to sway opinions. Therefore, tools that could be used to
 decipher legitimate news articles from fake opinionated pieces are
